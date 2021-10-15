@@ -26,17 +26,23 @@ export default {
     header h1 {
         color: #dfdfdf;
         font-size: 48px;
+        transition: all 0.3s ease-in-out;
     }
     header a {
         color: #bbb;
         text-decoration: none;
         margin-left: 20px;
-        transition: all 0.3s ease-in-out;
+        transition: all 0.5s ease-in-out;
     }
     header a.router-link-active {
         color: #444;
         font-weight: bold;
     }
+    /* hover */
+    header h1:hover {
+        color: #ff8800;
+    }
+
     header a:hover {
         color : #ff8800;
     }
