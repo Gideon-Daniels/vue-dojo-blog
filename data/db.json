@@ -1,25 +1,25 @@
 {
-    "posts": [
-        {
-            "id":1,
-            "title": "welcome to the new blog",
-            "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Unde, dolores totam omnis natus modi molestiae voluptate, commodi perspiciatis culpa tempore molestias iusto quam officiis quidem laudantium eum repellendus aliquam dolorem!",
-            "tags": [
-                "webdeb",
-                "coding",
-                "news"
-            ]
-        },
-
-        {
-            "id":2,
-            "title": "top 5 css tips",
-            "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Unde, dolores totam omnis natus modi molestiae voluptate, commodi perspiciatis culpa tempore molestias iusto quam officiis quidem laudantium eum repellendus aliquam dolorem!",
-            "tags": [
-                "css",
-                "webdev",
-                "coding"
-            ]
-        }
-    ]
+  "posts": [
+    {
+      "id": 1,
+      "title": "welcome to the new blog",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Unde, dolores totam omnis natus modi molestiae voluptate, commodi perspiciatis culpa tempore molestias iusto quam officiis quidem laudantium eum repellendus aliquam dolorem!",
+      "tags": [
+        "webdeb",
+        "coding",
+        "news"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "top 5 css tips",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Unde, dolores totam omnis natus modi molestiae voluptate, commodi perspiciatis culpa tempore molestias iusto quam officiis quidem laudantium eum repellendus aliquam dolorem!",
+      "tags": [
+        "css",
+        "webdev",
+        "coding"
+      ]
+    }
+    
+  ]
 }
