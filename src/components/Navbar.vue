@@ -3,7 +3,7 @@
     <h1> The Dojo Blog</h1>
     <nav>
         <router-link :to="'/'">Home</router-link>
-        <router-link :to="'Create'">Create Post</router-link>
+        <router-link :to="'/Create'">Create Post</router-link>
     </nav>
  </header>
 </template>
